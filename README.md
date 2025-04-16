@@ -1,54 +1,55 @@
-## Hi there, I'm Deepak 👋
+<h1 align="center">Hi there, I'm Deepak 👋</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D058&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer.;Love+to+build+cool+projects!)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&width=600&lines=Full+Stack+Web+Developer;Software+Tester+%7C+Postman+%7C+Selenium;Bug+Finder+%7C+Code+Fixer;Learning+Daily+%7C+Growing+Always" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
+
 - 🌱 Currently learning **Full Stack Development**
-- 💼 Open to collaborating on exciting web projects
-- 💬 Ask me about **Web Dev, C++, DSA, MERN Stack**
+- 🛠 Skilled in **C++, JavaScript, MERN, Postman, Selenium**
+- 🧪 Love **testing APIs**, finding bugs, and building features
 - 🌐 Portfolio: [deepak-singh-932b65.netlify.app](https://deepak-singh-932b65.netlify.app)
+- 💼 Open to collaborating on exciting dev + testing projects
 
 ---
 
-### ⚒️ Skills & Technologies
+### 💻 Tech Stack I Work With
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,python,git,github)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Fun Testing & Dev Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepak7903&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak7903&theme=algolia&column=6" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak7903&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7903&layout=compact&theme=github_dark)
-
----
-
-### 🌟 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepak7903&theme=github-compact&area=true)
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak7903/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/deepak7903)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=netlify&logoColor=white)](https://deepak-singh-932b65.netlify.app)
-
----
-
-### 📊 Visitors
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=deepak7903&label=Profile+Views&color=0e75b6&style=flat)
-
----
-
-> _"Code, Learn, Grow. Every commit counts."_ 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak7903&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=79ff97_
