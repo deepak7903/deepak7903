@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Deepak 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&width=600&lines=Full+Stack+Web+Developer;Software+Tester+%7C+Postman+%7C+Selenium;Bug+Finder+%7C+Code+Fixer;Learning+Daily+%7C+Growing+Always" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&width=600&lines=Full+Stack+Web+Developer;Software+Tester+%7C+Postman+%7C+Selenium;Bug+Finder+%7C+Code+Fixer;Learning+Daily+%7C+Growing+Always" />
 </p>
 
 ---
@@ -10,29 +10,22 @@
 
 - 🌱 Currently learning **Full Stack Development**
 - 🛠 Skilled in **C++, JavaScript, MERN, Postman, Selenium**
-- 🧪 Love **testing APIs**, finding bugs, and building features
+- 🧪 Passionate about **API testing**, **bug hunting**, and **feature building**
 - 🌐 Portfolio: [deepak-singh-932b65.netlify.app](https://deepak-singh-932b65.netlify.app)
-- 💼 Open to collaborating on exciting dev + testing projects
+- 🤝 Always open to **collaboration** on dev + testing projects
+- 🎯 Motto: *"Code with logic. Test with intent."*
 
 ---
 
-### 💻 Tech Stack I Work With
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,postman,selenium,git,github,vscode" />
 </p>
 
 ---
 
-### 🧪 Fun Testing & Dev Vibes
+### 🎉 Tools & Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -44,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepak7903&theme=algolia&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak7903&theme=algolia&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---
@@ -52,4 +45,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak7903&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=79ff97_
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak7903&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=79ff97" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7903&layout=compact&theme=tokyonight&title_color=ffb86c" height="170" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepak7903&theme=tokyo-night" />
+</p>
+
+---
+
+### 🚀 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-kumar-777b22269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deepakkumardev03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://deepak-singh-932b65.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
