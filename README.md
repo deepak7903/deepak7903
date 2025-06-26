@@ -20,15 +20,15 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,postman,selenium,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,postman,selenium,git,github,vscode,html,css" />
 </p>
 
 ---
 
-### 🎉 Tools & Vibes
+### ✨ Tools & Dev Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
 </p>
 
@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepak7903&theme=algolia&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak7903&theme=radical&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak7903&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=79ff97" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7903&layout=compact&theme=tokyonight&title_color=ffb86c" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak7903&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=79ff97&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7903&layout=compact&theme=tokyonight&title_color=ffb86c&hide_border=true" height="170" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepak7903&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak7903&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +62,17 @@
 ### 🚀 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-kumar-777b22269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:deepakkumardev03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://deepak-singh-932b65.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>   enhance my UI and add some animation 
+  <a href="https://www.linkedin.com/in/deepak-kumar-777b22269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:deepakkumardev03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://deepak-singh-932b65.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 💬 *“Behind every screen is a silent warrior — The Coder.”*
