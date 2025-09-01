@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&width=600&lines=Full+Stack+Web+Developer;Software+Tester+%7C+Postman+%7C+Selenium;Bug+Finder+%7C+Code+Fixer;Learning+Daily+%7C+Growing+Always" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepak7903&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -14,6 +18,13 @@
 - 🌐 Portfolio: [deepak-singh-932b65.netlify.app](https://deepak-singh-932b65.netlify.app)
 - 🤝 Always open to **collaboration** on dev + testing projects
 - 🎯 Motto: *"Code with logic. Test with intent."*
+
+---
+
+### 🚧 Current Projects
+- 🔗 Building **Guidexcel – AI Career Coaching Platform**
+- 🛒 Completed **E-commerce Website with MERN + PayPal/Braintree**
+- 💼 Working on **Airline Reservation System (Java Spring Boot)**
 
 ---
 
@@ -51,10 +62,47 @@
 
 ---
 
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=deepak7903&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak7903&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/deepak7903/Guidexcel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak7903&repo=Guidexcel&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/deepak7903/Job-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak7903&repo=Job-Portal&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🎉 Fun Facts
+
+- 🎶 Love listening to Lo-Fi while coding  
+- ♟️ Big fan of chess & strategy games  
+- ☕ Chai + Late night coding = Best combo  
+
+---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it’s%20bad." />
 </p>
 
 ---
